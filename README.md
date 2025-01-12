@@ -1,12 +1,11 @@
 ### Hi! 👋 I'm Najib.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I am a vocational high school student with a strong enthusiasm for programming, especially in the field of cybersecurity. My friends often see me as someone highly passionate about technology. I take pride in successfully completing projects, and my goal is to become a great programmer who contributes to maintaining digital security.
 
 I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Machine Learning.
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
+- 🌱 I’m currently learning about machine learning
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
