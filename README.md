@@ -91,10 +91,10 @@ motto: "Never stop learning, because life never stops teaching."
   </a>
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Contribution Details -->
 <p align="center">
   <a href="https://github.com/Najib19">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Najib19&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Najib19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="Detailed Stats"/>
   </a>
 </p>
 
@@ -104,7 +104,7 @@ motto: "Never stop learning, because life never stops teaching."
 
 <p align="center">
   <a href="https://github.com/Najib19">
-    <img src="https://github-profile-trophy.vercel.app/?username=Najib19&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=Najib19&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -137,7 +137,7 @@ motto: "Never stop learning, because life never stops teaching."
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pjzxavv46elmd55v6l5l2oki2e&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pjzxavv46elmd55v6l5l2oki2e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
 </p>
 
