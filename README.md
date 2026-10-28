@@ -118,8 +118,6 @@ motto: "Never stop learning, because life never stops teaching."
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Najib19/Najib19/output/github-snake.svg">
 </picture>
 
-> ⚠️ **Setup Required:** To activate the snake animation, add the GitHub Action workflow below to your repo!
-
 ---
 
 ## 📌 Featured Projects
@@ -138,10 +136,10 @@ motto: "Never stop learning, because life never stops teaching."
 ## 🎵 Vibes
 
 <p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pjzxavv46elmd55v6l5l2oki2e&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pjzxavv46elmd55v6l5l2oki2e&redirect=true)
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pjzxavv46elmd55v6l5l2oki2e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  </a>
 </p>
-
-> 💡 *Replace `YOUR_SPOTIFY_ID` with your Spotify user ID to show your currently playing track, or remove this section if not needed!*
 
 ---
 
